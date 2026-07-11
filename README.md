@@ -9,6 +9,7 @@
 This project was copied from:
 
 https://github.com/yo-steven/claude-skills-exploration-20260522
+https://github.com/a-pavithraa/springboot-skills-marketplace
 
 All credit for the original implementation, structure, and ideas belongs to the original author(s).
 
@@ -29,5 +30,10 @@ Any future commits made in this repository represent my own experiments or modif
 
 Original Repository:
 https://github.com/yo-steven/claude-skills-exploration-20260522
+https://github.com/a-pavithraa/springboot-skills-marketplace
 
 If you are looking for the original project or the latest updates, please visit the repository above.
+
+## Download
+
+Go to zips folder and download the .zip file and upload it on your claude skills.
