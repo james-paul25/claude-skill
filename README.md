@@ -10,6 +10,7 @@ This project was copied from:
 
 https://github.com/yo-steven/claude-skills-exploration-20260522
 https://github.com/a-pavithraa/springboot-skills-marketplace
+https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 
 All credit for the original implementation, structure, and ideas belongs to the original author(s).
 
@@ -31,6 +32,7 @@ Any future commits made in this repository represent my own experiments or modif
 Original Repository:
 https://github.com/yo-steven/claude-skills-exploration-20260522
 https://github.com/a-pavithraa/springboot-skills-marketplace
+https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 
 If you are looking for the original project or the latest updates, please visit the repository above.
 
